@@ -1,6 +1,7 @@
 import 'package:test/test.dart';
 import 'package:testing_app/models/favorites.dart';
 
+// this is the unit testing section
 void main() {
   group('Testing App Provider', () {
     var favorites = Favorites();
